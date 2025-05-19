@@ -1,0 +1,12 @@
+{
+    "Vue3 Generate Snippets": {
+        "scope": "vue",
+        "prefix": "vue3",
+        "body": [
+            "<script setup lang=\"ts\">$1</script>\n",
+            "<template>$2</template>\n",
+            "<style scoped>$3</style>\n"
+        ],
+        "description": "Vue3 代码生成片段"
+    }
+}
